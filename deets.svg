@@ -27,7 +27,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="357.90093"
-     inkscape:cy="659.56325"
+     inkscape:cy="411.60155"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -118,6 +118,30 @@
          sodipodi:role="line"
          x="11.000001"
          y="626.36218"
+         id="tspan3357">broken floor</tspan><tspan
+         sodipodi:role="line"
+         x="11.000001"
+         y="676.36218"
+         id="tspan3359">Music:</tspan><tspan
+         sodipodi:role="line"
+         x="11.000001"
+         y="726.36218"
+         id="tspan3361">menu</tspan><tspan
+         sodipodi:role="line"
+         x="11.000001"
+         y="776.36218"
+         id="tspan3363">bosses</tspan><tspan
+         sodipodi:role="line"
+         x="11.000001"
+         y="826.36218"
+         id="tspan3365">endless</tspan><tspan
+         sodipodi:role="line"
+         x="11.000001"
+         y="876.36218"
+         id="tspan3367">ingame</tspan><tspan
+         sodipodi:role="line"
+         x="11.000001"
+         y="926.36218"
          id="tspan3360" /></text>
     <text
        xml:space="preserve"
@@ -148,7 +172,7 @@
          sodipodi:role="line"
          id="tspan3378"
          x="217"
-         y="169.36221"></tspan><tspan
+         y="169.36221" /><tspan
          sodipodi:role="line"
          x="217"
          y="219.36221"
